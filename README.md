@@ -1,4 +1,8 @@
 # CS12 Course Portfolio
+**Student Name:** [Your Name Here]
+**Teacher:** Ms. Bean
+**School Year:** 2025-26
+
 
 Welcome to your Computer Science 12 course portfolio! This repository will contain all your work for the semester.
 
